@@ -1,3 +1,5 @@
+Link to live: https://rohanoza001.github.io/blog-preview-card/
+
 Link for Mobile:
 
 ![Screenshot 2024-07-26 214917](https://github.com/user-attachments/assets/1b500d50-a71c-4df2-9a31-34ec2b0d3220)
